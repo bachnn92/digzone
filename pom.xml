@@ -4,15 +4,15 @@
 
     <groupId>custom.lab</groupId>
     <artifactId>digzone</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>atlassian-plugin</packaging>
 
     <name>digzone</name>
-    <description>This is the custom.lab:digzone plugin for Atlassian Bitbucket Server.</description>
+    <description>You shall not pass.</description>
 
     <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
+        <name>Bach Company</name>
+        <url>http://www.bachnn92.com/</url>
     </organization>
 
     <properties>
@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <amps.version>9.1.1</amps.version>
-        <bitbucket.version>8.9.9</bitbucket.version>
+        <bitbucket.version>8.19.21</bitbucket.version>
         <bitbucket.data.version>${bitbucket.version}</bitbucket.data.version>
 
         <!-- This property ensures consistency between the key in atlassian-plugin.xml and the OSGi bundle's key. -->
